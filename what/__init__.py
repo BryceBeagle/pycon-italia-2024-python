@@ -2,4 +2,4 @@ print(f"{__file__} imported!")
 
 
 class FooBar:
-    hello_world = "\N{waving hand sign}"
+    hello_world = "Hello \N{waving hand sign}"
