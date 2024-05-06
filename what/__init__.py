@@ -1,4 +1,4 @@
-print(f"{__file__} imported!")
+print(f"{__spec__.origin} imported!")
 
 
 class FooBar:
