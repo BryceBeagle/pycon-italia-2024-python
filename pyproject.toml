@@ -2,7 +2,7 @@
 name = "what"
 version = "0.1.0"
 description = "why are you using this"
-authors = ["Bryce Beagle <first dot last at gmail dot com"]
+authors = ["Bryce Beagle <first dot last at gmail dot com>"]
 license = "WTFPL"
 readme = "README.md"
 
